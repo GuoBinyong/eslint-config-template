@@ -1,0 +1,12 @@
+{
+  "name": "ts-eslint-config-template",
+  "version": "1.0.0",
+  "description": "用于TypeScript的ESLint配置模板",
+  "author": "郭斌勇",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.33.0",
+    "@typescript-eslint/parser": "^2.33.0",
+    "eslint": "^7.0.0"
+  }
+}
