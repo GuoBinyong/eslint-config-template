@@ -1,0 +1,10 @@
+{
+  "name": "js-eslint-config-template",
+  "version": "1.0.0",
+  "description": "用于JavaScript的ESLint配置模板",
+  "author": "郭斌勇",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
